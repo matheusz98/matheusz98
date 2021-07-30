@@ -3,7 +3,7 @@
 
 <img src="otacon.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Otacon">
 
-- :seedling: No momento estou aprendendo: **JavaScript, React JS, Vue.js, Node.js**
+- :seedling: No momento estou aprendendo: **JavaScript, React JS, Node.js**
 
 - :speech_balloon: Você pode me perguntar sobre: **Desenvolvimento front-end e suas tecnologias**
 
