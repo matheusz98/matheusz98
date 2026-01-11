@@ -3,4 +3,4 @@
 
 <img src="otacon.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Otacon">
 
-- 💼 Mais sobre minhas experiências profissionais: [linkedin.com/in/matheus-costa98/](linkedin.com/in/matheus-costa98/)
+- 💼 Mais sobre minhas experiências profissionais: https://www.linkedin.com/in/matheus-costa98/
