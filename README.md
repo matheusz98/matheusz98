@@ -4,6 +4,3 @@
 <img src="otacon.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Otacon">
 
 - 💼 Mais sobre minhas experiências profissionais: [linkedin.com/in/matheus-costa98/](linkedin.com/in/matheus-costa98/)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheusz98&show_icons=true&theme=dracula&locale=en" alt="matheusz98" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusz98&show_icons=true&theme=dracula&locale=en&layout=compact" alt="matheusz98" /></p>
